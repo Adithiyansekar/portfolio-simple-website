@@ -1,4 +1,4 @@
-# portfolio-simple-website
+# My portfolio website
 
 💼 Personal Portfolio Website
 This is a simple personal portfolio website created using HTML and basic CSS. It includes a Home page to introduce myself and showcase my profile, and a Contact page where visitors can reach out to me.
