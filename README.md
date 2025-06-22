@@ -25,7 +25,7 @@ index.html – Home page
 
 contact.html – Contact page
 
-🔗 [Live Demo](https://adithiyansekar.github.io/Udemy-Clone-Static-P1/)  
+🔗 [Live Demo]([https://adithiyansekar.github.io/Udemy-Clone-Static-P1/](https://adithiyansekar.github.io/portfolio-simple-website/))  
 📁 [Repository]([https://github.com/Adithiyansekar/Udemy-Clone-Static-P1](https://github.com/Adithiyansekar/portfolio-simple-website))
 
 
